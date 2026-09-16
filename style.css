@@ -196,6 +196,25 @@ body {
     gap: 8px;
 }
 
+.footer-school {
+    display: flex;
+    align-items: center;
+}
+
+.rs-link {
+    display: inline-flex;
+    align-items: center;
+}
+
+.rs-logo {
+    display: block;
+    width: 28px;
+    height: 28px;
+    padding: 3px;
+    background-color: #ffffff;
+    border-radius: 50%;
+}
+
 /* Small screens */
 
 @media (max-width: 640px) {
